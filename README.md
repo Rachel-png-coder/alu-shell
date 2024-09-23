@@ -1,3 +1,1 @@
-
-This repository has basic scripts that we can use in the shell
-
+This script switches the current user to the user betty.
