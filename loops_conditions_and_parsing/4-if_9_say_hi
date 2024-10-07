@@ -10,6 +10,6 @@ echo "Best School"
 echo "Hi"
 else ((i!=9))
 echo "Best School"
-((i+=1))
 fi
+((i +=1))
 done
